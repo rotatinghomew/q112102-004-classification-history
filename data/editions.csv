@@ -1,0 +1,6 @@
+edition,start,scope,class,label
+v1,2026-01-01,municipal,FAC,公共设施
+v1,2026-01-01,municipal,ENV,环境
+v2,2026-04-01,municipal,FIX,设施维护
+v2,2026-04-01,municipal,ADD,设施新增
+v2,2026-04-01,municipal,ENV,环境

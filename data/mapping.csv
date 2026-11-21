@@ -1,4 +1,4 @@
-mapping_id,old_category,new_category,coverage,review_state,valid_from
-M-1,C-1,C-3,partial,reviewed,2026-02-01
-M-2,C-1,C-4,partial,pending,2026-02-01
-M-3,C-2,C-2,exact,reviewed,2026-02-01
+edition,legacy_class,candidate,condition
+v2,FAC,FIX,purpose=maintain
+v2,FAC,ADD,purpose=expand
+v2,ENV,ENV,always

@@ -1,0 +1,12 @@
+item,period,source_edition,source_class,purpose,issuer
+i1,Q1,v1,FAC,maintain,municipal
+i2,Q1,v1,FAC,,municipal
+i3,Q1,v1,FAC,,
+i4,Q1,v1,ENV,,municipal
+i5,Q1,v1,FAC,expand,external
+i6,Q1,v1,ENV,,municipal
+i7,Q2,v2,FIX,maintain,municipal
+i8,Q2,v2,FIX,maintain,municipal
+i9,Q2,v2,ADD,expand,municipal
+i10,Q2,v2,ENV,,municipal
+i11,Q2,v2,ENV,,

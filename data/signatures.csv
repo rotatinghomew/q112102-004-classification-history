@@ -1,0 +1,6 @@
+id,item,edition,period,field,value,state,prior,at
+s1,i2,v2,Q1,purpose,expand,confirmed,,2026-07-01
+s2,i3,v2,Q1,issuer,municipal,confirmed,,2026-07-01
+s3,i3,v2,Q1,purpose,maintain,confirmed,,2026-07-01
+s4,i2,v2,Q1,purpose,,revoked,s1,2026-07-04
+s5,i2,v2,Q1,purpose,maintain,confirmed,,2026-07-04
